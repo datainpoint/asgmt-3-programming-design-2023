@@ -150,7 +150,7 @@ def find_unique_vowels(x: str) -> set:
     ### END SOLUTION
 ```
 
-08. Define a function `count_number_of_each_vowel()` which counts the number of occurrence for each vowel as a `dict` found in a given `str`.
+## 08. Define a function `count_number_of_each_vowel()` which counts the number of occurrence for each vowel as a `dict` found in a given `str`.
 
 ```python
 def count_number_of_each_vowel(x: str) -> dict:
@@ -171,7 +171,7 @@ def count_number_of_each_vowel(x: str) -> dict:
     ### END SOLUTION
 ```
 
-09. Define a function `is_palindrome()` which reverses the input text and tells us whether it is a palindrome or not.
+## 09. Define a function `is_palindrome()` which reverses the input text and tells us whether it is a palindrome or not.
 
 Source: <https://en.wikipedia.org/wiki/Palindrome>
 
@@ -192,7 +192,7 @@ def is_palindrome(x: str) -> tuple:
     ### END SOLUTION
 ```
 
-10. Define a function named `reverse_keys_values_from_dict()` which reverses a given dictionary's key-value pairs.
+## 10. Define a function named `reverse_keys_values_from_dict()` which reverses a given dictionary's key-value pairs.
 
 ```python
 def reverse_keys_values_from_dict(x: dict) -> dict:
